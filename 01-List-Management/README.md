@@ -15,4 +15,4 @@ To practice ServiceNow list personalization, filtering, creating custom views, a
 - Managing navigation efficiency using Favorites.
 
 ## Screenshots
-01-List-Management/List and filter assignment.jpeg
+![List Management Task](List and filter assignment.jpeg)
